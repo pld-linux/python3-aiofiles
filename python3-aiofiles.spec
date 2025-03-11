@@ -7,7 +7,7 @@ Summary(pl.UTF-8):	Obsługa plików dla asyncio
 Name:		python3-aiofiles
 # 23.2.x requires hatchling to build
 Version:	23.1.0
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/aiofiles/
